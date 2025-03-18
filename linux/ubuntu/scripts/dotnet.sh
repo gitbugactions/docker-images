@@ -31,3 +31,4 @@ dotnet --info
 #dotnet --list-sdks
 #dotnet --list-runtimes
 printf "\n\t🐋 Installed .NET 🐋\t\n"
+
